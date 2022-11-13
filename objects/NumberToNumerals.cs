@@ -18,7 +18,7 @@ namespace objects
 
                 if (Enumerable.Range(1,2000).Contains(number))
                 {
-                    string returnedNumeral = convertNum(number);
+                    string returnedNumeral = convertToNumeral(number);
 
                     Console.WriteLine(returnedNumeral);
 
@@ -37,7 +37,7 @@ namespace objects
             }
 
         }
-        static string convertNum(int number) {
+        static string convertToNumeral(int number) {
             string result = string.Empty;
             Dictionary<int, string> RomanNumerals = new Dictionary<int, string>
             {
