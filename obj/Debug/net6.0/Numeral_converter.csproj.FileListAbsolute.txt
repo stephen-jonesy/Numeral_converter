@@ -1,0 +1,15 @@
+/Users/stephen/Documents/code/Numeral_converter/bin/Debug/net6.0/Numeral_converter
+/Users/stephen/Documents/code/Numeral_converter/bin/Debug/net6.0/Numeral_converter.deps.json
+/Users/stephen/Documents/code/Numeral_converter/bin/Debug/net6.0/Numeral_converter.runtimeconfig.json
+/Users/stephen/Documents/code/Numeral_converter/bin/Debug/net6.0/Numeral_converter.dll
+/Users/stephen/Documents/code/Numeral_converter/bin/Debug/net6.0/Numeral_converter.pdb
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.csproj.AssemblyReference.cache
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.AssemblyInfoInputs.cache
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.AssemblyInfo.cs
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.csproj.CoreCompileInputs.cache
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.dll
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/refint/Numeral_converter.dll
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.pdb
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/Numeral_converter.genruntimeconfig.cache
+/Users/stephen/Documents/code/Numeral_converter/obj/Debug/net6.0/ref/Numeral_converter.dll
