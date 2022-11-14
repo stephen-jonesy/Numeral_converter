@@ -7,7 +7,7 @@ namespace objects
 {
     public class NumberToNumerals
     {
-        public static void Validation()
+        public void Validation()
         {
             try
             {
@@ -37,7 +37,7 @@ namespace objects
             }
 
         }
-        static string convertToNumeral(int number) {
+        private string convertToNumeral(int number) {
             string result = string.Empty;
             Dictionary<int, string> RomanNumerals = new Dictionary<int, string>
             {

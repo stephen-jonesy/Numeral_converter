@@ -9,7 +9,8 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            NumberToNumerals.Validation();
+            NumberToNumerals numInstance = new NumberToNumerals();
+            numInstance.Validation();
 
         }
 
